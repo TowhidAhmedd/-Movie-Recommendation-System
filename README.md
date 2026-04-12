@@ -14,11 +14,12 @@ It analyzes textual features like **overview, tags, genres** and converts them i
 
 ## Features
 
-- Content-based movie recommendation
+- Content-based movie recommendation system
 - NLP-based text processing
+- TF-IDF vectorization for feature extraction
 - Similarity calculation using cosine similarity
-- Fast and accurate recommendations
 - Dataset preprocessing and feature engineering
+- Fast and accurate recommendations
 
 ---
 
@@ -59,7 +60,7 @@ It analyzes textual features like **overview, tags, genres** and converts them i
 - Text Cleaning
 - Tokenization
 - Stemming
-- Bag of Words / Count Vectorizer or TF-IDF
+- Count Vectorizer or TF-IDF
 - Cosine Similarity
 
 ---
@@ -68,5 +69,5 @@ It analyzes textual features like **overview, tags, genres** and converts them i
 
 
 git clone https://github.com/TowhidAhmedd/Movie-Recommendation-System.git  
-cd Movie-Recommendation-System 
+cd Movie-Recommendation-System  
 pip install -r requirements.txt  
